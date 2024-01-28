@@ -1,0 +1,12 @@
+https://excalidraw.com/
+https://github.com/ByteByteGoHq/system-design-101
+https://shopify.dev/docs/api/hydrogen-react
+https://shopify.dev/docs/apps/getting-started/create
+https://www.npmjs.com/package/@shopify/cli
+https://shopify.dev/docs/api/hydrogen
+https://shopify.dev/docs/custom-storefronts/hydrogen/getting-started
+https://remix.run/docs/en/1.19.3/guides/data-loading
+
+https://github.com/Shopify/storefront-api-learning-kit
+
+https://shopify.dev/docs/api/admin-graphql/2024-01/queries/collections
